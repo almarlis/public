@@ -9,6 +9,3 @@ print('deposit = ' + str(deposit))
 str(per_cent.items())
 print('Примечание - ' + str(per_cent.items()))
 print('Максимальная сумма, которую вы можете заработать - ' + str(max_deposit))
-
-
-
