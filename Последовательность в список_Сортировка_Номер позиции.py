@@ -1,3 +1,4 @@
+# Thank you https://github.com/GeorgioArmani/TestRepository.git
 error = 'Необходимо перезапустить программу!'
 numbers = input('Введите целые числа через пробел: ')
 user_number = int(input('Введите любое число: '))
